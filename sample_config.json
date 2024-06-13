@@ -1,0 +1,17 @@
+{
+    "request_data":{
+        "Bearer": "TYPE_BEARER_HERE",
+        "auth_token": "TYPE_AUTH_TOKEN",
+        "ct0": "TYPE_CT0_HERE"
+    },
+
+    "user_data": {
+        "user_id": "TYPE_USER_ID_HERE",
+        "screen_name": "TYPE_SCREEN_NAME_HERE"
+    },
+
+    "config": {
+        "count": 100,
+        "json_file": "likes.json"
+    }
+}
